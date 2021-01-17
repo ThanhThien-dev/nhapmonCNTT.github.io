@@ -1,0 +1,8 @@
+﻿  Bai167.cpp
+D:\UIT\Nhap mon CNTT\Chuong04\Bai167\Bai167.cpp(14,12): warning C4101: 'vtd': unreferenced local variable
+D:\UIT\Nhap mon CNTT\Chuong04\Bai167\Bai167.cpp(14,17): warning C4101: 'vtc': unreferenced local variable
+D:\UIT\Nhap mon CNTT\Chuong04\Bai167\Bai167.cpp(51,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai167\Bai167.cpp(55,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai167\Bai167.cpp(101,6): warning C4101: 'vtd': unreferenced local variable
+D:\UIT\Nhap mon CNTT\Chuong04\Bai167\Bai167.cpp(101,11): warning C4101: 'vtc': unreferenced local variable
+  Bai167.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong04\Debug\Bai167.exe

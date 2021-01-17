@@ -1,0 +1,4 @@
+﻿  000float.cpp
+D:\UIT\Nhap mon CNTT\Chuong04\000float\000float.cpp(27,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\000float\000float.cpp(30,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  000float.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong04\Debug\000float.exe

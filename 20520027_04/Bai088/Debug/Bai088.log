@@ -1,0 +1,7 @@
+﻿  Bai088.cpp
+D:\UIT\Nhap mon CNTT\Chuong04\Bai088\Bai088.cpp(44,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai088\Bai088.cpp(48,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai088\Bai088.cpp(78,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai088\Bai088.cpp(82,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai088\Bai088.cpp(84,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Bai088.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong04\Debug\Bai088.exe

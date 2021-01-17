@@ -1,0 +1,4 @@
+﻿  Bai074.cpp
+D:\UIT\Nhap mon CNTT\Chuong04\Bai074\Bai074.cpp(44,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai074\Bai074.cpp(90): warning C4715: 'chandau': not all control paths return a value
+  Bai074.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong04\Debug\Bai074.exe

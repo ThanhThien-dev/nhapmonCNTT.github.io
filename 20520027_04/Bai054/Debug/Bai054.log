@@ -1,0 +1,5 @@
+﻿  Bai054.cpp
+D:\UIT\Nhap mon CNTT\Chuong04\Bai054\Bai054.cpp(28,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai054\Bai054.cpp(31,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong04\Bai054\Bai054.cpp(57,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Bai054.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong04\Debug\Bai054.exe

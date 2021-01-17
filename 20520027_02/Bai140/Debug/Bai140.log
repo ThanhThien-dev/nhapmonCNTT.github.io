@@ -1,0 +1,6 @@
+﻿  Bai140.cpp
+D:\UIT\Nhap mon CNTT\Chuong02\Bai140\Bai140.cpp(25,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai140\Bai140.cpp(26,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai140\Bai140.cpp(34,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai140\Bai140.cpp(35,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Bai140.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong02\Debug\Bai140.exe

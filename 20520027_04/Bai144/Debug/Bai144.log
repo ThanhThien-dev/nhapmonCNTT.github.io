@@ -1,0 +1,4 @@
+﻿  Bai144.cpp
+D:\UIT\Nhap mon CNTT\Chuong04\Bai144\Bai144.cpp(16,12): warning C4101: 'd': unreferenced local variable
+D:\UIT\Nhap mon CNTT\Chuong04\Bai144\Bai144.cpp(54,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai144.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong04\Debug\Bai144.exe

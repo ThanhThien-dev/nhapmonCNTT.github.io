@@ -1,0 +1,5 @@
+﻿  Bai131.cpp
+D:\UIT\Nhap mon CNTT\Chuong02\Bai131\Bai131.cpp(37,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai131\Bai131.cpp(38,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai131\Bai131.cpp(39,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bai131.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong02\Debug\Bai131.exe

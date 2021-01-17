@@ -1,0 +1,5 @@
+﻿  Bai080,81,82,83,84,85,86,87.cpp
+D:\UIT\Nhap mon CNTT\Chuong02\Bai080,81,82,83,84,85,86,87\Bai080,81,82,83,84,85,86,87.cpp(54,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai080,81,82,83,84,85,86,87\Bai080,81,82,83,84,85,86,87.cpp(73,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai080,81,82,83,84,85,86,87\Bai080,81,82,83,84,85,86,87.cpp(97,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Bai080,81,82,83,84,85,86,87.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong02\Debug\Bai080,81,82,83,84,85,86,87.exe

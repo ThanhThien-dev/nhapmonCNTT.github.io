@@ -1,0 +1,10 @@
+﻿  Bai073,74,75,76.cpp
+D:\UIT\Nhap mon CNTT\Chuong02\Bai073,74,75,76\Bai073,74,75,76.cpp(13,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai073,74,75,76\Bai073,74,75,76.cpp(13,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai073,74,75,76\Bai073,74,75,76.cpp(14,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai073,74,75,76\Bai073,74,75,76.cpp(14,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai073,74,75,76\Bai073,74,75,76.cpp(15,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai073,74,75,76\Bai073,74,75,76.cpp(15,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai073,74,75,76\Bai073,74,75,76.cpp(16,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong02\Bai073,74,75,76\Bai073,74,75,76.cpp(16,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bai073,74,75,76.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong02\Debug\Bai073,74,75,76.exe

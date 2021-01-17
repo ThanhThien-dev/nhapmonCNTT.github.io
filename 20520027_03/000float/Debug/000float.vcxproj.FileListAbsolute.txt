@@ -1,0 +1,2 @@
+D:\UIT\Nhap mon CNTT\20520027_03\Debug\000float.exe.lastcodeanalysissucceeded
+D:\UIT\Nhap mon CNTT\20520027_03\000float\Debug\NativeCodeAnalysis.read.1.tlog

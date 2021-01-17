@@ -1,0 +1,6 @@
+﻿  Bai132.cpp
+D:\UIT\Nhap mon CNTT\Chuong01\Bai132\Bai132.cpp(34,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong01\Bai132\Bai132.cpp(37,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong01\Bai132\Bai132.cpp(40,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UIT\Nhap mon CNTT\Chuong01\Bai132\Bai132.cpp(43,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Bai132.vcxproj -> D:\UIT\Nhap mon CNTT\Chuong01\Debug\Bai132.exe
