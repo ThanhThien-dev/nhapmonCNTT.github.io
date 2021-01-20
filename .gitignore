@@ -1,0 +1,14 @@
+
+*.db
+
+*.db-shm
+
+*.db-wal
+
+*.opendb
+
+*.ipch
+
+*.json
+
+*.sqlite
