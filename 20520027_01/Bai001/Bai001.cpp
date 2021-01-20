@@ -8,6 +8,7 @@ int main()
 	int x1,y1,x2,y2;
 	cout << "x1 = ";
 	cin >> x1;
+	// edit to test git. merge from master to a_b 
 	// edit to test git
 	cout << "y1 = ";
 	cin >> y1;
